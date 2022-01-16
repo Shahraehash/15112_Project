@@ -3,6 +3,7 @@ Modeling Breast Cancer in Patients
 By Raehash Shah
 
 Project Proposal:
+
 i.	Project Description
 My term project, Breast Cancer Visualizer, is a tool used for researchers to visualize different types of mutations for cells. The tool will be visualizing cancer cells at the cell level, DNA level and the organelle level. The cells will then be visualized after mutation. Once again, this will be visualized at the multiple levels. In addition to visualization the user will interact with the cells to see them at a 3D perspective the breast cancer. 
 
